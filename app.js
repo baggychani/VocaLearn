@@ -1119,3 +1119,8 @@ $("#import-form").addEventListener("submit", (event) => {
 });
 
 render();
+
+// 홈 화면에 앱으로 설치하고 오프라인에서도 열 수 있게 한다. 파일로 바로 연 경우(file://)에는 쓰지 않는다.
+if ("serviceWorker" in navigator && (location.protocol === "https:" || location.hostname === "localhost")) {
+  window.addEventListener("load", () => { navigator.serviceWorker.register("./sw.js").catch(() => {}); });
+}
