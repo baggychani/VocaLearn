@@ -1,6 +1,8 @@
-# NEWTEPS 단어 암기
+# VocaLearn
 
-`index.html`을 브라우저에서 열면 바로 공부할 수 있습니다. 설치나 서버가 필요 없습니다.
+TEPS 어휘 600개를 플래시카드와 퀴즈로 외우는 웹앱입니다. 바로 쓰기: https://baggychani.github.io/VocaLearn/
+
+`index.html`을 브라우저에서 열어도 바로 공부할 수 있습니다. 설치나 서버가 필요 없습니다.
 
 ## 단어장 데이터
 
