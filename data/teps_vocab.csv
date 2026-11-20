@@ -1,0 +1,601 @@
+﻿id,word,meaning,explanation,category
+1,abate,"(강도가) 약해지다, 누그러지다",The storm/pain abated. 자동사로 많이 써. subside와 유의어.,동사
+2,abdicate,(왕위·책임을) 포기하다,abdicate the throne / abdicate responsibility.,동사
+3,abhor,"몹시 싫어하다, 혐오하다","abhorrent(혐오스러운). detest, loathe와 유의어.",동사
+4,abjure,(신념 등을) 공개적으로 버리다,renounce와 유의어. adjure(간청하다)와 혼동 주의.,동사
+5,abrogate,(법·조약을) 폐지하다,"abrogate a treaty. repeal, annul, rescind와 같은 계열.",동사
+6,abscond,(돈을 갖고) 도주하다,abscond with the funds 형태로 자주 나와.,동사
+7,acquiesce,"(마지못해) 따르다, 묵인하다",acquiesce in/to a demand. 전치사 in/to까지 같이 기억.,동사
+8,adulterate,(불순물을 섞어) 질을 떨어뜨리다,adulterated food/milk.,동사
+9,allay,(두려움·의심을) 가라앉히다,allay fears/concerns가 정석 연어.,동사
+10,alleviate,(고통·문제를) 완화하다,alleviate pain/poverty. mitigate와 유의어.,동사
+11,ameliorate,개선하다,ameliorate conditions. melior(더 나은)가 어근.,동사
+12,annul,(결혼·계약을) 무효로 하다,annul a marriage/contract.,동사
+13,appease,(요구를 들어주어) 달래다,appease critics. placate와 유의어. appeasement(유화정책).,동사
+14,arrogate,(권리를) 부당하게 가로채다,arrogate power to oneself.,동사
+15,assuage,(감정·욕구를) 누그러뜨리다,assuage guilt/hunger/thirst.,동사
+16,augment,"늘리다, 증대시키다",augment income. augmented reality의 그 augment.,동사
+17,balk,"망설이다, 주춤하다",balk at the price/idea. 전치사 at과 함께.,동사
+18,belittle,"깎아내리다, 얕보다","disparage, denigrate와 유의어.",동사
+19,bolster,"강화하다, 북돋우다",bolster confidence/the economy. 원래 '긴 베개'라는 뜻.,동사
+20,broach,(화제를) 꺼내다,broach the subject/topic이 거의 고정 연어.,동사
+21,buttress,(주장을) 뒷받침하다,buttress an argument. 원래 건축의 '버팀벽'.,동사
+22,cajole,"구슬리다, 감언이설로 설득하다",cajole sb into doing. coax와 유의어.,동사
+23,castigate,혹독하게 비난하다,"chastise, berate, reprimand 계열.",동사
+24,circumvent,"(규제를) 피하다, 우회하다",circum(주위)+vent(오다). circumvent the law/regulations.,동사
+25,coerce,강요하다,coerce sb into doing. coercion(강압).,동사
+26,commandeer,(차량·건물을) 징발하다,commandeer a vehicle.,동사
+27,condone,"(잘못을) 묵과하다, 용납하다",주로 부정문: I don't condone violence.,동사
+28,construe,"해석하다, 이해하다",be construed as ~ (~로 해석되다). misconstrue(오해하다).,동사
+29,contravene,(법·규칙을) 위반하다,"contra(반대)+vene(오다). violate, infringe와 유의어.",동사
+30,curtail,"줄이다, 축소하다",curtail spending/freedom.,동사
+31,debunk,(잘못된 믿음의) 허구를 폭로하다,debunk a myth가 대표 연어.,동사
+32,decry,공공연히 비난하다,decry corruption. descry(발견하다)와 혼동 주의.,동사
+33,deplete,고갈시키다,deplete resources/reserves. depletion(고갈).,동사
+34,deride,조롱하다,"derision, derisive. mock, ridicule과 유의어.",동사
+35,disparage,"깎아내리다, 폄하하다",disparaging remarks. belittle과 유의어.,동사
+36,dissipate,"흩어지다, 소멸하다; 낭비하다",The fog/tension dissipated.,동사
+37,divulge,(비밀을) 누설하다,"divulge information/secrets. disclose, reveal과 유의어.",동사
+38,elucidate,명료하게 설명하다,luc(빛)이 어근. elucidate a point/theory. clarify와 유의어.,동사
+39,emulate,"본받다, 모방하다",emulate one's role model. 컴퓨터 emulator도 같은 단어.,동사
+40,enervate,기력을 빼앗다,energize와 반대 뜻이니 주의! enervating heat.,동사
+41,engender,(감정·상황을) 불러일으키다,engender trust/conflict.,동사
+42,equivocate,얼버무리다,equi(같은)+voc(말하다). equivocal(모호한).,동사
+43,eradicate,근절하다,radic(뿌리)이 어근. eradicate disease/poverty.,동사
+44,eschew,"(의도적으로) 피하다, 삼가다",eschew violence/meat. avoid의 격식체.,동사
+45,exhort,"열심히 권고하다, 촉구하다",exhort sb to do. urge와 유의어.,동사
+46,expedite,신속히 처리하다,expedite the process/delivery.,동사
+47,expunge,"(기록을) 지우다, 삭제하다","expunge a record. erase, delete와 유의어.",동사
+48,extol,극찬하다,extol the virtues of ~가 정석 연어.,동사
+49,fabricate,(거짓을) 꾸며내다; 제조하다,fabricate evidence/a story.,동사
+50,fathom,"헤아리다, 이해하다",주로 부정문: I can't fathom why ~. 명사로는 수심 단위.,동사
+51,feign,~인 척하다,feign illness/ignorance/interest.,동사
+52,flout,(규칙을) 대놓고 무시하다,flout the rules. flaunt(과시하다)와 헷갈리게 출제되기 쉬워.,동사
+53,flaunt,과시하다,flaunt one's wealth. flout와 짝으로 외워.,동사
+54,foment,(반란·불화를) 조장하다,foment unrest/rebellion. instigate와 유의어.,동사
+55,forestall,미연에 방지하다,forestall a crisis. preempt와 유의어.,동사
+56,galvanize,자극하여 행동하게 하다,galvanize sb into action. 원래 '아연 도금하다'.,동사
+57,garner,"(지지·정보를) 얻다, 모으다",garner support/attention/votes.,동사
+58,hamper,방해하다,"hamper efforts/progress. hinder, impede와 유의어.",동사
+59,harangue,"장황하게 열변을 토하다, 훈계하다",명사로도 써. tirade와 비슷.,동사
+60,impede,방해하다,impediment(장애). impede progress.,동사
+61,implicate,(범죄에) 연루시키다,be implicated in a scandal.,동사
+62,incapacitate,무력하게 만들다,be incapacitated by injury.,동사
+63,incite,(폭력 등을) 선동하다,incite violence/riots. instigate와 유의어.,동사
+64,indict,기소하다,발음 주의(인다잇). be indicted for/on charges of ~.,동사
+65,infringe,(권리·법을) 침해하다,infringe (on) rights. copyright infringement.,동사
+66,instigate,선동하다; (공식적으로) 착수하다,instigate a riot / instigate an inquiry.,동사
+67,inundate,(물에) 잠기게 하다; (요청 등이) 쇄도하게 하다,"be inundated with calls/requests(전화·요청이 쇄도하다). swamp, flood와 유의어.",동사
+68,jeopardize,위태롭게 하다,jeopardize one's career/safety.,동사
+69,lambaste,맹비난하다,"castigate, excoriate와 유의어.",동사
+70,languish,"시들다, (나쁜 상태에) 머물다",languish in prison/poverty.,동사
+71,malign,비방하다 / [형] 해로운,동사로는 vilify와 유의어. malignant(악성의)와 같은 뿌리.,동사
+72,mollify,"달래다, 진정시키다","placate, appease와 같은 계열. moll(부드러운).",동사
+73,obliterate,완전히 없애다,obliterate a city/memory.,동사
+74,obviate,(필요·문제를) 미연에 없애다,obviate the need for ~가 대표 연어.,동사
+75,oust,(자리에서) 쫓아내다,be ousted from power/office.,동사
+76,pacify,진정시키다; 평정하다,pac(평화)가 어근. pacify a crying baby.,동사
+77,palliate,(병의 증상을) 완화하다,palliative care(완화 치료).,동사
+78,peruse,정독하다,peruse the documents. 구어로는 '훑어보다'로도 쓰지만 원래 뜻은 꼼꼼히 읽기.,동사
+79,plummet,급락하다,Prices/sales plummeted. plunge와 유의어.,동사
+80,precipitate,(나쁜 일을) 촉발하다,precipitate a crisis. 형용사로는 '성급한'.,동사
+81,procrastinate,미루다,cras(내일)가 어근.,동사
+82,proliferate,"급증하다, 확산되다",proliferation of nuclear weapons(핵확산).,동사
+83,promulgate,(법령을) 공표하다; (사상을) 널리 알리다,promulgate a law/doctrine.,동사
+84,quell,"진압하다, 가라앉히다",quell a riot/fears/rumors.,동사
+85,rebuke,꾸짖다,"reprimand, reproach와 유의어.",동사
+86,recant,(주장을) 철회하다,recant one's testimony/statement.,동사
+87,relinquish,"(권리·지위를) 내주다, 포기하다",relinquish control/power.,동사
+88,remunerate,보수를 주다,remuneration(보수).,동사
+89,repudiate,"부인하다, 거부하다",repudiate a claim/accusation.,동사
+90,retract,(말·제안을) 철회하다; (팔다리 등을) 안으로 끌어들이다,retract a statement. retract its limbs처럼 신체 일부를 안으로 거두어들인다는 뜻도 있어.,동사
+91,scrutinize,면밀히 조사하다,scrutiny(정밀 조사). be under scrutiny.,동사
+92,squander,낭비하다,squander money/an opportunity.,동사
+93,stymie,"방해하다, 좌절시키다",be stymied by regulations.,동사
+94,substantiate,(증거로) 입증하다,substantiate a claim. corroborate와 유의어.,동사
+95,supplant,"대신하다, 대체하다","supplant the old system. replace, supersede와 유의어.",동사
+96,thwart,(계획을) 좌절시키다,thwart a plan/attempt. foil과 유의어.,동사
+97,truncate,(일부를 잘라) 줄이다,truncated version.,동사
+98,undermine,(서서히) 약화시키다,undermine confidence/authority.,동사
+99,usurp,(권력을) 찬탈하다,usurp the throne/power.,동사
+100,vindicate,정당성을 입증하다; 혐의를 풀다,be vindicated by the results. vilify(비방하다)와 혼동 주의.,동사
+101,acrimonious,"(말·태도가) 신랄한, 험악한",acrimonious divorce/debate.,형용사
+102,adamant,"단호한, 요지부동의",be adamant that ~ / about ~.,형용사
+103,affable,"상냥한, 붙임성 있는","amiable, genial과 유의어.",형용사
+104,ambivalent,"양가감정의, 마음이 엇갈리는",ambi(양쪽)가 어근. be ambivalent about ~.,형용사
+105,amenable,(제안을) 잘 받아들이는,be amenable to suggestions/change.,형용사
+106,anachronistic,시대착오적인,chron(시간)이 어근.,형용사
+107,apathetic,무관심한,a(없음)+path(감정). apathy(무관심).,형용사
+108,arduous,몹시 힘든,arduous task/journey. strenuous와 유의어.,형용사
+109,astute,"기민한, 약삭빠른",astute observer/investor. shrewd와 유의어.,형용사
+110,audacious,"대담한, 뻔뻔한",audacity. 긍정·부정 둘 다 가능.,형용사
+111,austere,"엄격한, 금욕적인; 꾸밈없는",austerity measures(긴축 정책).,형용사
+112,avaricious,탐욕스러운,"avarice(탐욕). greedy, rapacious와 유의어.",형용사
+113,banal,진부한,"banal remarks. trite, hackneyed와 유의어.",형용사
+114,belligerent,호전적인,bell(전쟁)이 어근. belligerent attitude.,형용사
+115,benevolent,"자애로운, 자비로운",bene(좋은)+vol(의지). malevolent가 반의어.,형용사
+116,benign,상냥한; (종양이) 양성의,benign tumor ↔ malignant tumor.,형용사
+117,brusque,퉁명스러운,"curt, abrupt와 유의어.",형용사
+118,cantankerous,"심술궂은, 툭하면 싸우는",cantankerous old man.,형용사
+119,candid,솔직한,candid opinion. frank와 유의어.,형용사
+120,clandestine,"은밀한, 비밀리의",clandestine meeting/operation. covert와 유의어.,형용사
+121,cogent,(주장이) 설득력 있는,cogent argument/reasoning. compelling과 유의어.,형용사
+122,complacent,"안주하는, 자기만족에 빠진",complaisant(고분고분한)와 혼동 주의.,형용사
+123,conciliatory,"회유적인, 달래는",conciliatory tone/gesture.,형용사
+124,conspicuous,눈에 띄는,conspicuous consumption(과시적 소비). inconspicuous가 반의어.,형용사
+125,contentious,논쟁을 일으키는,contentious issue. controversial과 유의어.,형용사
+126,copious,"풍부한, 많은",copious notes/amounts. abundant와 유의어.,형용사
+127,cursory,"대충 하는, 피상적인",cursory glance/examination. perfunctory와 유의어.,형용사
+128,daunting,"위압적인, 벅찬",daunting task/challenge.,형용사
+129,deleterious,해로운,deleterious effect on health. harmful의 격식체.,형용사
+130,diffident,"자신감 없는, 소심한","timid, shy와 유의어. confident와 대비해서 기억.",형용사
+131,dilapidated,다 허물어져 가는,dilapidated building/house.,형용사
+132,dilatory,"꾸물거리는, 지연시키는",dilatory tactics(지연 전술).,형용사
+133,disingenuous,"솔직하지 못한, 위선적인",ingenuous(순진한)의 반대.,형용사
+134,dogmatic,독단적인,dogma(교리). opinionated와 유의어.,형용사
+135,ebullient,"열정이 넘치는, 활기찬",ebullient personality. exuberant와 유의어.,형용사
+136,egregious,"(나쁜 쪽으로) 지독한, 터무니없는",egregious error/violation.,형용사
+137,eloquent,"웅변의, 설득력 있는",loqu(말하다)가 어근. eloquent speech.,형용사
+138,ephemeral,"덧없는, 단명하는","transient, fleeting과 유의어.",형용사
+139,erratic,"불규칙한, 종잡을 수 없는",erratic behavior/driving.,형용사
+140,erroneous,잘못된,erroneous assumption/belief.,형용사
+141,exorbitant,(가격이) 터무니없이 비싼,exorbitant price/fees.,형용사
+142,expedient,"편리한, 편의주의적인",politically expedient. expedite와 뜻 구분.,형용사
+143,extraneous,"관련 없는, 외부의",extraneous details/information.,형용사
+144,facetious,(부적절하게) 농담하는,facetious remark.,형용사
+145,fallacious,"잘못된, 오류가 있는",fallacy(오류). fallacious argument.,형용사
+146,feasible,실현 가능한,feasibility study. viable과 유의어.,형용사
+147,fervent,열렬한,"ferv(끓다)가 어근. fervent supporter. ardent, zealous와 유의어.",형용사
+148,flippant,"경솔한, 건방진",flippant remark/attitude.,형용사
+149,frugal,검소한,frugal lifestyle. thrifty와 유의어.,형용사
+150,furtive,"은밀한, 엉큼한",furtive glance. stealthy와 유의어.,형용사
+151,garrulous,수다스러운,loquacious와 유의어. taciturn(과묵한)이 반의어.,형용사
+152,gregarious,"사교적인, 군집성의","greg(무리)가 어근. congregate, segregate와 같은 뿌리.",형용사
+153,haughty,오만한,"arrogant, condescending과 유의어.",형용사
+154,heinous,극악무도한,heinous crime이 대표 연어.,형용사
+155,hackneyed,진부한,"hackneyed phrase/expression. trite, banal과 유의어.",형용사
+156,imminent,임박한,imminent danger/threat. eminent(저명한)와 혼동 주의.,형용사
+157,impeccable,흠잡을 데 없는,pecc(죄)가 어근. impeccable manners/taste.,형용사
+158,imperative,"필수적인, 긴급한",It is imperative that ~ (should) 동사원형.,형용사
+159,impervious,영향받지 않는; 스며들지 않는,be impervious to criticism/water.,형용사
+160,inadvertent,"무심코 한, 고의가 아닌",inadvertently(무심코). unintentional과 유의어.,형용사
+161,incessant,끊임없는,incessant noise/rain. ceaseless와 유의어.,형용사
+162,incongruous,어울리지 않는,incongruous with the surroundings.,형용사
+163,incumbent,재임 중인; 의무로 지워지는,incumbent president / It is incumbent on sb to do.,형용사
+164,indefatigable,지칠 줄 모르는,in(부정)+de+fatig(지치다). tireless와 유의어.,형용사
+165,indigenous,(그 지역) 토착의,indigenous people/species. native와 유의어.,형용사
+166,indolent,게으른,"lazy, slothful과 유의어.",형용사
+167,inexorable,"막을 수 없는, 냉혹한",inexorable rise/decline.,형용사
+168,innocuous,"무해한, 악의 없는",noc(해치다)가 어근. innocuous remark. pernicious의 반대 계열.,형용사
+169,insatiable,만족할 줄 모르는,insatiable appetite/curiosity.,형용사
+170,insidious,"은밀히 퍼지는, 서서히 해로운",insidious disease/influence. pernicious와 유의어.,형용사
+171,intransigent,"비타협적인, 고집스러운",intransigent attitude. obstinate와 유의어.,형용사
+172,intrepid,"용맹한, 두려움 없는",intrepid explorer. fearless와 유의어.,형용사
+173,irascible,화를 잘 내는,"irate, ire와 같은 뿌리. short-tempered와 유의어.",형용사
+174,judicious,"현명한, 분별 있는",judicious use of resources. prudent와 유의어.,형용사
+175,laconic,"말을 아끼는, 간결한",laconic reply. 스파르타 지역명 Laconia에서 유래.,형용사
+176,lethargic,무기력한,lethargy(무기력). sluggish와 유의어.,형용사
+177,lucrative,수익성 좋은,lucrative business/contract. profitable과 유의어.,형용사
+178,magnanimous,"관대한, 아량 있는",magn(큰)+anim(마음). magnanimous in victory.,형용사
+179,meticulous,"꼼꼼한, 세심한",meticulous attention to detail. fastidious와 유의어.,형용사
+180,mundane,"평범한, 일상적인",mundane tasks. 원래 '세속의'.,형용사
+181,nefarious,사악한,"nefarious scheme/activities. wicked, villainous와 유의어.",형용사
+182,nonchalant,"태연한, 무심한",nonchalant attitude. indifferent와 유의어.,형용사
+183,nostalgic,향수를 불러일으키는,nostalgia(향수). nostalgic memories.,형용사
+184,obsequious,"아첨하는, 비굴한","obsequious waiter. sycophantic, servile과 유의어.",형용사
+185,obsolete,"쓸모없어진, 구식의",become obsolete. outdated와 유의어.,형용사
+186,obstinate,고집 센,"stubborn, intransigent와 유의어.",형용사
+187,onerous,"부담스러운, 성가신","onerous task/duty. exonerate(혐의를 벗기다)와 같은 뿌리로, oner는 '짐'.",형용사
+188,opulent,호화로운,"opulent lifestyle/palace. lavish, luxurious와 유의어.",형용사
+189,ostensible,"표면상의, 겉으로 내세운",ostensibly(표면상으로는). ostensible reason.,형용사
+190,paltry,"(양이) 하찮은, 쥐꼬리만 한",paltry sum/salary. meager와 유의어.,형용사
+191,parsimonious,인색한,"stingy, miserly와 유의어. frugal보다 부정적.",형용사
+192,peremptory,"단호한, 위압적인",peremptory tone. imperious와 유의어.,형용사
+193,plausible,그럴듯한,plausible explanation/excuse.,형용사
+194,pragmatic,실용적인,pragmatic approach. 언어학 화용론(pragmatics)과 같은 뿌리.,형용사
+195,precarious,"불안정한, 위태로운",precarious position/balance.,형용사
+196,prodigious,"엄청난, 비범한",prodigious talent/memory. prodigy(신동).,형용사
+197,prolific,"다작의, 다산의",prolific writer/composer.,형용사
+198,prudent,신중한,prudent decision/investment. judicious와 유의어.,형용사
+199,punctilious,"격식을 엄격히 지키는, 꼼꼼한",punctilious about etiquette.,형용사
+200,quixotic,비현실적으로 이상주의적인,돈키호테(Don Quixote)에서 유래. quixotic quest.,형용사
+201,rampant,(나쁜 것이) 만연한,rampant corruption/inflation. widespread의 부정적 버전.,형용사
+202,reticent,"말을 삼가는, 과묵한",be reticent about one's past. reluctant와 혼동 주의.,형용사
+203,scrupulous,양심적인; 세심한,scrupulous honesty. unscrupulous(파렴치한)가 더 자주 나와.,형용사
+204,spurious,"거짓된, 가짜의",spurious claim/argument.,형용사
+205,stringent,(규정이) 엄격한,stringent regulations/standards.,형용사
+206,superfluous,"불필요한, 남아도는",super(넘어)+flu(흐르다). redundant와 유의어.,형용사
+207,surreptitious,"몰래 하는, 은밀한","surreptitious glance. furtive, clandestine과 유의어.",형용사
+208,tenacious,"끈질긴, 집요한",ten(붙잡다)이 어근. tenacity(끈기).,형용사
+209,tenuous,"미약한, 빈약한",tenuous link/connection.,형용사
+210,trite,진부한,"trite expression. hackneyed, banal과 유의어.",형용사
+211,truculent,"반항적인, 공격적인",truculent teenager.,형용사
+212,unscathed,"다치지 않은, 무사한",escape unscathed가 거의 고정.,형용사
+213,venal,"돈으로 매수되는, 부패한","venal officials. venial(가벼운, 용서할 수 있는)과 혼동 주의.",형용사
+214,voracious,"게걸스러운, 탐욕스러운",voracious reader/appetite.,형용사
+215,wary,"경계하는, 조심하는",be wary of strangers. cautious와 유의어.,형용사
+216,zealous,열성적인,"zeal(열의). fervent, ardent와 유의어.",형용사
+217,acumen,"예리함, 통찰력",business acumen이 대표 연어.,명사
+218,alacrity,"민첩함, 선뜻 나섬","with alacrity(선뜻, 기꺼이).",명사
+219,animosity,적대감,"animosity toward/between. hostility, enmity와 유의어.",명사
+220,anomaly,"이례, 이상",statistical anomaly. anomalous(변칙적인).,명사
+221,antidote,해독제; 해결책,an antidote to boredom/stress.,명사
+222,apathy,무관심,voter apathy가 자주 나와.,명사
+223,aplomb,"침착함, 태연자약",with aplomb(침착하게). composure와 유의어.,명사
+224,bane,"골칫거리, 파멸의 원인",the bane of one's existence/life.,명사
+225,bedlam,"아수라장, 대혼란","chaos, pandemonium과 유의어.",명사
+226,camaraderie,"동료애, 우정",team camaraderie.,명사
+227,caveat,"경고, 단서",with one caveat. 라틴어 '조심하라'.,명사
+228,clemency,"관용, 감형",grant clemency. leniency와 유의어.,명사
+229,conundrum,"난제, 수수께끼","dilemma, puzzle과 유의어.",명사
+230,dearth,"부족, 결핍",a dearth of information/talent. scarcity와 유의어.,명사
+231,debacle,"대실패, 낭패",fiasco와 유의어.,명사
+232,decorum,"예의 바름, 품위",maintain decorum. propriety와 유의어.,명사
+233,deference,"존중, 경의",in deference to ~ (~을 존중하여). defer to(~에 따르다).,명사
+234,diatribe,"비난조의 연설, 혹평","diatribe against ~. tirade, harangue과 유의어.",명사
+235,dichotomy,"이분법, 양분",dichotomy between A and B.,명사
+236,eulogy,추도 연설; 찬사,deliver a eulogy. eu(좋은)+log(말).,명사
+237,exodus,"(대규모) 탈출, 이주",mass exodus.,명사
+238,fiasco,대실패,debacle과 유의어.,명사
+239,foible,"(사소한) 약점, 결점",human foibles. quirk와 유의어.,명사
+240,hiatus,"(활동의) 중단, 공백",go on hiatus / after a two-year hiatus.,명사
+241,impasse,교착 상태,"reach an impasse. deadlock, stalemate와 유의어.",명사
+242,impetus,"자극, 추진력",give impetus to ~. impetuous(성급한)와 같은 뿌리.,명사
+243,inertia,관성; 무기력,bureaucratic inertia.,명사
+244,intricacy,"복잡함, 복잡한 사항",the intricacies of the law.,명사
+245,juxtaposition,"병치, 나란히 놓기",juxtapose A with B.,명사
+246,lethargy,"무기력, 혼수",lethargic의 명사형.,명사
+247,malaise,"(막연한) 불안, 침체",economic malaise.,명사
+248,misnomer,부적절한 명칭,be a misnomer.,명사
+249,nuance,"미묘한 차이, 뉘앙스",subtle nuances.,명사
+250,panacea,만병통치약,a panacea for all ills. pan(모든)+acea(치료).,명사
+251,paradigm,"패러다임, 전형",paradigm shift.,명사
+252,paucity,"부족, 소량",a paucity of evidence. dearth와 유의어.,명사
+253,penchant,"(강한) 기호, 성향","have a penchant for ~. propensity, proclivity와 유의어.",명사
+254,plethora,"과다, 과잉",a plethora of options. abundance와 유의어.,명사
+255,predicament,곤경,be in a predicament. plight와 유의어.,명사
+256,propensity,"(타고난) 성향, 경향",a propensity for violence/to do.,명사
+257,proclivity,(주로 나쁜) 성향,proclivity for/toward ~.,명사
+258,quandary,"곤혹, 진퇴양난",be in a quandary about ~. dilemma와 유의어.,명사
+259,rapport,"(친밀한) 관계, 공감대",build/establish rapport with ~.,명사
+260,remnant,"나머지, 잔재",remnants of the past.,명사
+261,repercussion,"(보통 복수, 나쁜) 영향, 반향",serious repercussions.,명사
+262,respite,"일시적 휴식, 유예",a brief respite from the heat/work.,명사
+263,schism,(조직의) 분열,schism within the party. rift와 유의어.,명사
+264,semblance,"외관, 겉모습",restore some semblance of order가 대표 연어.,명사
+265,stalemate,교착 상태,"impasse, deadlock과 유의어.",명사
+266,tirade,장황한 비난,launch into a tirade. diatribe와 유의어.,명사
+267,upheaval,"격변, 대변동",political/social upheaval.,명사
+268,vestige,"흔적, 자취",a vestige of colonialism. vestigial organ(흔적기관).,명사
+269,zenith,"정점, 절정","at the zenith of one's career. apex, pinnacle과 유의어. nadir가 반의어.",명사
+270,nadir,"최하점, 밑바닥",reach its nadir. zenith의 반의어.,명사
+271,call it a day,(그날 일을) 그만 끝내다,Let's call it a day. 저녁이면 call it a night도 가능.,Part I 구어 표현
+272,take a rain check,다음 기회로 미루다,Can I take a rain check on dinner? 제안을 정중히 미룰 때.,Part I 구어 표현
+273,bear with me,잠시만 참고 기다려 주세요,Bear with me for a second. 전화·설명 중에 자주 써.,Part I 구어 표현
+274,I'll pass,저는 사양할게요,제안을 가볍게 거절할 때. pass on ~ (~을 사양하다).,Part I 구어 표현
+275,beat around the bush,돌려 말하다,Stop beating around the bush. 요점만 말하라는 맥락.,Part I 구어 표현
+276,cut corners,(비용·노력을) 대충 아끼다,cut corners on safety. 부정적 뉘앙스.,Part I 구어 표현
+277,get the hang of,~의 요령을 터득하다,You'll get the hang of it soon.,Part I 구어 표현
+278,hit the sack,잠자리에 들다,hit the hay와 같은 뜻.,Part I 구어 표현
+279,in the same boat,같은 처지인,We're all in the same boat.,Part I 구어 표현
+280,keep me posted,계속 소식 알려 줘,keep sb posted/updated on ~.,Part I 구어 표현
+281,let it slide,(잘못을) 그냥 넘어가다,I'll let it slide this time.,Part I 구어 표현
+282,on the house,(가게에서) 무료로 제공되는,This one's on the house.,Part I 구어 표현
+283,out of the blue,"갑자기, 난데없이",He called me out of the blue.,Part I 구어 표현
+284,pull an all-nighter,밤을 새우다,pull an all-nighter for the exam.,Part I 구어 표현
+285,ring a bell,(어렴풋이) 들어 본 것 같다,That name rings a bell.,Part I 구어 표현
+286,see eye to eye,의견이 일치하다,주로 부정문: We don't see eye to eye on this.,Part I 구어 표현
+287,sleep on it,하룻밤 생각해 보다,Let me sleep on it. 결정을 미룰 때.,Part I 구어 표현
+288,take it with a grain of salt,"가려서 듣다, 에누리해서 듣다",소문·과장된 말에 대해 써.,Part I 구어 표현
+289,under the weather,몸이 좀 안 좋은,I'm feeling a bit under the weather.,Part I 구어 표현
+290,up in the air,"미정인, 불확실한",Our plans are still up in the air.,Part I 구어 표현
+291,a piece of cake,아주 쉬운 일,The test was a piece of cake. a breeze와 같은 뜻.,Part I 구어 표현
+292,go Dutch,각자 내다,Let's go Dutch. split the bill과 같은 뜻.,Part I 구어 표현
+293,fill in for,~을 대신하다,Can you fill in for me tomorrow? cover for와 유의어.,Part I 구어 표현
+294,iron out,"(문제를) 해결하다, 조율하다",iron out the details/differences.,Part I 구어 표현
+295,come down with,(병에) 걸리다,come down with a cold/the flu.,Part I 구어 표현
+296,talk sb into,~을 설득해 ~하게 하다,She talked me into going. 반대는 talk sb out of.,Part I 구어 표현
+297,brush up on,(잊어버린 실력을) 다시 다듬다,brush up on my Spanish.,Part I 구어 표현
+298,chip in,(돈을) 조금씩 보태다,Let's all chip in for her gift.,Part I 구어 표현
+299,put up with,"참다, 견디다",I can't put up with the noise. tolerate와 유의어.,Part I 구어 표현
+300,touch base,"(잠깐) 연락하다, 상황을 공유하다",Let's touch base next week.,Part I 구어 표현
+301,observe,"기념일·휴일을 지키다, 기념하다",observe a national holiday에서 observe는 ‘관찰하다’가 아니라 ‘기념하다’. observe a rule은 ‘규칙을 준수하다’.,다의어
+302,finance,사업·구매에 자금을 대다,finance a purchase with a loan(대출로 구입 자금을 마련하다). 여기서는 동사.,다의어
+303,bound,~행인; 틀림없이 ~할,"a train bound for Busan은 ‘부산행’, be bound to fail은 ‘틀림없이 실패하다’.",다의어
+304,address,문제·우려를 다루다; 청중에게 연설하다,address a concern은 ‘우려 사항을 다루다’. address an audience는 ‘청중에게 연설하다’.,다의어
+305,entertain,제안·가능성을 고려하다,entertain the possibility of a merger. 손님을 접대한다는 뜻과 구별.,다의어
+306,table,제안을 보류하다(미국); 제안을 상정하다(영국),"table a motion. 미국 회의에서 postpone과 가까우며, 영국에서는 논의에 올린다는 뜻이 될 수 있어 문맥을 봐야 함.",다의어
+307,tender,사직서 등을 정식으로 제출하다,tender one's resignation(사직서를 제출하다). 형용사 tender는 ‘부드러운’.,다의어
+308,issue,"공식적으로 내다, 발급하다","issue a warning/an apology는 ‘경고·사과를 내다’, issue a permit은 ‘허가증을 발급하다’.",다의어
+309,serve,복역하다; 직책을 맡다; 목적에 부합하다,"serve a prison sentence는 ‘복역하다’, serve a purpose는 ‘어떤 목적에 쓰이다’.",다의어
+310,bear,책임·비용을 부담하다; 닮다,bear the cost는 ‘비용을 부담하다’. bear a resemblance to A는 ‘A와 닮다’.,다의어
+311,raise,자금을 모으다; 쟁점을 제기하다,"raise funds는 ‘모금하다’, raise an objection은 ‘이의를 제기하다’. 자동사 rise와 구별.",다의어
+312,strike,인상을 주다; 합의에 이르다,strike someone as odd(누구에게 이상하게 느껴지다). strike a deal(거래를 성사시키다).,다의어
+313,draw,결론을 내리다; 반응을 불러오다; 추첨하다,"draw a conclusion, draw criticism, draw lots를 각각 한 덩어리로 기억.",다의어
+314,cast,빛·그림자를 드리우다; 의심을 갖게 하다,cast doubt on a claim은 ‘주장에 의문을 제기하다’. cast a vote는 ‘표를 던지다’.,다의어
+315,hold,판단하다; 유효하다; 수용할 수 있다,The court held that …은 ‘법원이 …라고 판단했다’. The rule still holds는 ‘규칙이 여전히 적용된다’.,다의어
+316,stand,용인하다; 기록이 유효하다; ~할 상황에 있다,can't stand the noise는 ‘소음을 못 참다’. stand to lose money는 ‘돈을 잃을 가능성이 있다’.,다의어
+317,meet,기준·기한·수요를 충족하다,"meet a deadline, meet demand, meet the requirements. ‘누구를 만나다’ 외에 자주 쓰이는 용법.",다의어
+318,spell,"결과를 초래하다, 징조가 되다",spell trouble/disaster는 ‘문제·재앙을 예고하다’. 철자를 말한다는 뜻과 구별.,다의어
+319,weather,위기·불황 등을 견뎌 내다,weather the recession은 ‘불황을 버텨 내다’. 명사 weather는 ‘날씨’.,다의어
+320,shoulder,책임·부담을 짊어지다,shoulder the financial burden은 ‘재정 부담을 떠맡다’. 여기서는 동사.,다의어
+321,foot,비용을 부담하다,foot the bill은 ‘비용을 내다’. 특히 부담하기로 한 주체를 강조.,다의어
+322,head,이끌다; ~을 향하다,"head a committee는 ‘위원회를 이끌다’, head for the exit는 ‘출구로 향하다’.",다의어
+323,screen,걸러 내다; 검사하다; 상영하다,"screen applicants는 ‘지원자를 심사하다’, screen patients for a disease는 ‘환자에게 해당 질병 검사를 하다’.",다의어
+324,float,제안을 시험 삼아 내놓다,float a proposal은 반응을 알아보려 제안을 내놓는 것. 정식 채택은 별개.,다의어
+325,field,질문·요청을 받아 대응하다,field calls/questions에서 field는 동사. field a team은 ‘팀을 출전시키다’.,다의어
+326,land,일자리·계약 등을 따내다,get보다 ‘얻어 내다’의 느낌. land a job/contract.,다의어
+327,landmark,획기적인 사건; 획기적인,a landmark ruling은 ‘획기적 판결’. 지리적 표지라는 뜻 외에 중요성을 나타냄.,다의어
+328,register,감정·수치가 나타나다; 알아차리다,Her face registered surprise는 ‘얼굴에 놀란 기색이 드러났다’. It didn't register는 ‘미처 알아차리지 못했다’.,다의어
+329,sound,"타당한, 건전한; (잠이) 깊은",sound advice는 ‘타당한 조언’. sound asleep에서는 ‘깊이 잠든’.,다의어
+330,air,의견·불만을 공개적으로 말하다; 방송하다,air grievances는 ‘불만을 털어놓다’. air a documentary는 ‘다큐를 방송하다’.,다의어
+331,voice,의견·우려를 표명하다,voice concerns는 의견이나 우려를 말로 드러내는 것. 여기서는 동사.,다의어
+332,fine,"벌금을 부과하다; 미세한, 정교한",fine a company for violations는 ‘위반으로 업체에 벌금을 물리다’. a fine distinction은 ‘미세한 차이’.,다의어
+333,margin,"차이, 여유, 이윤의 비율",win by a narrow margin은 ‘근소한 차로 이기다’. profit margin은 ‘이익률’.,다의어
+334,reserve,보류하다; 권리 등을 유보하다,reserve judgment until the facts are clear는 ‘사실이 밝혀질 때까지 판단을 보류하다’.,다의어
+335,credit,공을 돌리다; 계좌에 입금하다,credit A with the discovery는 ‘발견의 공을 A에게 돌리다’. credit a refund to an account는 ‘환급액을 계좌에 입금하다’.,다의어
+336,charge,청구하다; 기소하다; 책임을 맡기다,charge A with fraud는 ‘A를 사기 혐의로 기소하다’. charge A a fee는 ‘A에게 수수료를 청구하다’.,다의어
+337,claim,주장하다; 청구하다; 목숨을 앗아 가다,claim compensation은 ‘보상을 청구하다’. The fire claimed three lives는 ‘화재로 세 명이 목숨을 잃었다’.,다의어
+338,commission,"제작·조사를 의뢰하다; 위원회, 수수료",commission a report는 ‘보고서 작성을 의뢰하다’. sales commission은 ‘판매 수수료’.,다의어
+339,contract,계약하다; 병에 걸리다; 수축하다,contract a disease는 ‘병에 걸리다’. Muscles contract는 ‘근육이 수축하다’.,다의어
+340,compound,문제·위험을 악화시키다; 복합물,compound the problem은 ‘문제를 더욱 악화시키다’. compound interest는 ‘복리’.,다의어
+341,subject,~을 겪게 하다; ~의 대상인,subject applicants to checks는 ‘지원자들을 심사받게 하다’. be subject to change는 ‘변경될 수 있다’.,다의어
+342,present,제시하다; 문제를 일으키다,present evidence는 ‘증거를 제시하다’. present a challenge/risk는 ‘문제·위험을 초래하다’.,다의어
+343,exercise,권리·권한을 행사하다; 주의를 기울이다,"exercise discretion(재량을 행사하다), exercise caution(주의하다).",다의어
+344,assume,책임·직무를 맡다; 형태를 띠다,assume responsibility는 ‘책임을 맡다’. assume a new form은 ‘새 형태를 띠다’.,다의어
+345,accommodate,수용하다; 필요에 맞춰 조정하다,accommodate 300 people은 ‘300명을 수용하다’. accommodate a request는 ‘요청을 받아들여 맞춰 주다’.,다의어
+346,appreciate,진가·심각성을 이해하다; 가치가 오르다,appreciate the risks는 ‘위험을 충분히 이해하다’. The currency appreciated는 ‘통화 가치가 올랐다’.,다의어
+347,settle,분쟁을 해결하다; 채무를 결제하다,settle a dispute는 ‘분쟁을 해결하다’. settle a bill은 ‘청구서를 결제하다’.,다의어
+348,secure,확보하다; 단단히 고정하다,secure funding은 ‘자금을 확보하다’. secure a lid는 ‘뚜껑을 단단히 고정하다’.,다의어
+349,redeem,쿠폰을 사용하다; 실수를 만회하다,redeem a voucher는 상품권을 사용하거나 교환하는 것. redeem oneself는 ‘앞선 실수를 만회하다’.,다의어
+350,levy,세금·부과금을 부과하다,levy a tax on imports는 ‘수입품에 세금을 부과하다’. 명사로는 부과금.,다의어
+351,bill,요금을 청구하다; ~라고 홍보하다,bill someone for repairs는 ‘수리비를 청구하다’. be billed as a breakthrough는 ‘획기적 성과라고 홍보되다’.,다의어
+352,book,예약하다; 입건하다,book a room은 ‘방을 예약하다’. The suspect was booked for theft는 ‘용의자가 절도 혐의로 입건됐다’.,다의어
+353,ground,운항을 중단시키다; 근거를 두다,ground all flights는 ‘모든 항공편을 지상에 묶다’. be grounded in evidence는 ‘증거에 기반하다’.,다의어
+354,fine print,계약서 등의 작은 글씨로 된 세부 조건,read the fine print는 작은 글씨로 적힌 조건이나 예외를 확인한다는 뜻.,명사
+355,qualify,자격을 얻다; 주장에 단서를 달다,qualify for aid는 ‘지원을 받을 자격이 되다’. qualify a claim은 ‘범위를 제한하는 단서를 달다’.,다의어
+356,temper,강도·태도를 누그러뜨리다,temper optimism with caution은 ‘신중함으로 낙관론을 누그러뜨리다’. 명사 temper는 ‘성질’이 될 수 있음.,다의어
+357,check,확인하다; 억제하다,check the spread of disease에서 check는 ‘확인’이 아니라 ‘확산을 억제하다’.,다의어
+358,command,주목·존경을 받다; 가격에 거래되다,command respect는 ‘존경을 받다’. command a high price는 ‘높은 가격에 팔리다’.,다의어
+359,yield,생산·성과를 내다; 양보하다; 굴복하다,yield results는 ‘성과를 내다’. yield to pressure는 ‘압력에 굴복하다’.,다의어
+360,advance,주장·이론을 내놓다; 돈을 미리 지급하다,advance a theory는 ‘이론을 제시하다’. advance someone money는 ‘돈을 선지급하다’.,다의어
+361,capture,관심을 붙들다; 특징을 포착하다,capture attention은 ‘관심을 끌다’. capture the mood는 ‘분위기를 잘 담아내다’.,다의어
+362,relieve,근무를 교대해 주다; 직무에서 해임하다,relieve the night guard는 ‘야간 경비와 교대하다’. relieve someone of their duties는 ‘직무에서 해임하다’.,다의어
+363,render,~한 상태로 만들다; 판결·서비스를 제공하다,render the device useless(장치를 못 쓰게 하다). render a verdict(평결을 내리다).,다의어
+364,subscribe,의견·이론에 동의하다,subscribe to a theory는 ‘이론에 동의하다’. 잡지·서비스를 구독한다는 뜻과 문맥으로 구별.,다의어
+365,tell,구별하다; 알아차리다; 영향이 드러나다,tell A from B는 ‘A와 B를 구별하다’. I could tell은 ‘보니 알겠더라’.,다의어
+366,play it by ear,상황을 봐 가면서 결정하다,"If the weather changes, we'll play it by ear. 사전 계획보다 그때그때 대응한다는 뜻.",Part I 구어 표현
+367,jump the gun,때가 되기 전에 성급히 행동하다,Don't jump the gun and announce the deal before it's signed. 출발 신호총이 울리기 전에 뛰어나가는 데서 온 표현.,Part I 구어 표현
+368,twist someone's arm,압박하거나 졸라서 설득하다,"She didn't want to go at first, but we twisted her arm. 농담으로 ‘마지못해 하게 만들다’에도 씀.",Part I 구어 표현
+369,go cold turkey,나쁜 습관·의존을 단번에 끊다,He went cold turkey after years of smoking. 조금씩 줄이는 cut down과 구별.,Part I 구어 표현
+370,face the music,잘못의 불쾌한 결과를 받아들이다,"We missed the deadline, so now we have to face the music.",Part I 구어 표현
+371,lose one's touch,예전만큼 솜씨를 발휘하지 못하다,I've burnt dinner twice this week. Maybe I'm losing my touch.,Part I 구어 표현
+372,walk a fine line,두 요구 사이에서 아슬아슬하게 균형을 잡다,walk a fine line between being honest and being rude.,Part I 구어 표현
+373,make waves,반발을 일으키다; 조직의 관행을 흔들다,"I disagree, but I don't want to make waves on my first day.",Part I 구어 표현
+374,pass up,기회를 이용하지 않고 흘려보내다,pass up an opportunity. pass out(기절하다)과 구별.,Part I 구어 표현
+375,pay off,노력이 결실을 맺다; 빚을 다 갚다,All that practice paid off. pay off a loan은 ‘대출을 다 갚다’.,Part I 구어 표현
+376,cash out,투자 자산 등을 현금화하고 빠지다,She cashed out before the stock price fell.,Part I 구어 표현
+377,fall back on,다른 방법이 실패할 때 ~에 기대다,"If the plan fails, we can fall back on our savings.",Part I 구어 표현
+378,do away with,제도·관행을 없애다,do away with an outdated rule. do without은 ‘~ 없이 지내다’.,Part I 구어 표현
+379,do without,"~ 없이 지내다, ~ 없이도 해내다",We can do without a car for a week.,Part I 구어 표현
+380,get around to,미뤄 둔 일을 드디어 하다; 할 여유가 나다,I never got around to calling him. to 뒤에는 명사나 -ing.,Part I 구어 표현
+381,get away with,잘못하고도 벌·비난을 피하다,He got away with cheating. get away(달아나다)와 구별.,Part I 구어 표현
+382,get through to,연락이 닿다; 말이 상대에게 먹히다,I can't get through to customer service는 ‘전화가 연결되지 않는다’.,Part I 구어 표현
+383,go through with,망설임이나 어려움에도 계획을 실행하다,She almost backed out but went through with the interview.,Part I 구어 표현
+384,back out of,하기로 한 일에서 발을 빼다,back out of a deal at the last minute.,Part I 구어 표현
+385,fall through,계획·계약이 성사되지 않다,Our travel plans fell through. 목적어 없이 plans가 주어.,Part I 구어 표현
+386,pan out,일이 특정한 결과로 풀리다,The deal didn't pan out. ‘일이 기대대로 되지 않았다’.,Part I 구어 표현
+387,run something by someone,의견을 듣기 위해 누군가에게 먼저 말해 보다,Can I run this idea by you before the meeting?,Part I 구어 표현
+388,get wind of,소문이나 낌새로 알게 되다,Reporters got wind of the deal before it was announced.,Part I 구어 표현
+389,catch on,유행하다; 이해하기 시작하다,The idea caught on quickly. He finally caught on to the joke에서는 ‘알아차렸다’.,Part I 구어 표현
+390,catch up on,밀린 일·잠·소식을 보충하다,catch up on sleep/email. 사람을 따라잡는 catch up with와 구별.,Part I 구어 표현
+391,draw a blank,아무것도 기억해 내지 못하다; 찾아도 성과가 없다,"I knew her name, but I drew a blank when she walked in.",Part I 구어 표현
+392,slip one's mind,깜빡 잊히다,Sorry I didn't call. It slipped my mind. 잊은 일이 문장의 주어.,Part I 구어 표현
+393,put someone on the spot,즉답을 요구해 곤란하게 만들다,Asking him to choose in front of everyone put him on the spot.,Part I 구어 표현
+394,cut someone some slack,"사정을 봐주다, 덜 엄격하게 굴다",It's her first day. Cut her some slack.,Part I 구어 표현
+395,give someone the benefit of the doubt,의심스러워도 일단 믿어 주다,I'll give him the benefit of the doubt until I hear his side.,Part I 구어 표현
+396,take something at face value,겉으로 드러난 의미를 그대로 받아들이다,Don't take the sales figures at face value. 숨은 사정이나 맥락을 확인하라는 말.,Part I 구어 표현
+397,read between the lines,말에 드러나지 않은 속뜻을 읽다,"If you read between the lines, the message is a polite refusal.",Part I 구어 표현
+398,read the room,분위기와 사람들의 반응을 파악하다,Read the room before you make that joke.,Part I 구어 표현
+399,give someone the runaround,핑계를 대거나 여기저기 돌려보내며 답을 피하다,The company gave me the runaround when I asked for a refund.,Part I 구어 표현
+400,pull strings,인맥이나 영향력을 써서 일을 성사시키다,He pulled a few strings to get us an appointment.,Part I 구어 표현
+401,get one's foot in the door,업계 등에 처음 들어갈 기회를 잡다,An internship can help you get your foot in the door.,Part I 구어 표현
+402,keep someone in the loop,관련 소식·진행 상황을 계속 알려 주다,Keep me in the loop on any schedule changes.,Part I 구어 표현
+403,be on the fence,어느 쪽을 택할지 결정하지 못하다,I'm still on the fence about accepting the offer.,Part I 구어 표현
+404,be in a bind,난처한 상황에 처하다,"I'm in a bind: my rent is due, but my paycheck is late.",Part I 구어 표현
+405,be in over one's head,감당하기 어려운 일을 떠맡은 상태다,I took on too many clients and realized I was in over my head.,Part I 구어 표현
+406,out of one's depth,자신의 능력·지식으로 감당하기 어려운,I felt out of my depth in the technical discussion.,Part I 구어 표현
+407,be on the hook for,돈·손실 등에 책임을 지게 되다,Who's on the hook for the repair costs?,Part I 구어 표현
+408,get off the hook,책임·곤경에서 벗어나다,An apology won't get him off the hook.,Part I 구어 표현
+409,go out on a limb,위험을 감수하며 의견을 내거나 누군가를 돕다,I'll go out on a limb and say sales will recover by June.,Part I 구어 표현
+410,sit tight,움직이지 말고 기다리다,Sit tight while I check whether your room is ready.,Part I 구어 표현
+411,hold off on,당장은 ~하지 않고 미뤄 두다,Let's hold off on buying tickets until we know the date.,Part I 구어 표현
+412,call off,예정된 일을 취소하다,call off the match due to rain. put off는 ‘연기하다’.,Part I 구어 표현
+413,call out,공개적으로 지적·비판하다,She called him out for making false claims.,Part I 구어 표현
+414,rule out,가능성을 배제하다,We can't rule out a software problem yet.,Part I 구어 표현
+415,account for,이유를 설명하다; 비중을 차지하다,How do you account for the gap? Sales abroad account for half our revenue.,Part I 구어 표현
+416,make up for,부족함·손실을 만회하다,make up for lost time. make up an excuse는 ‘핑계를 지어내다’.,Part I 구어 표현
+417,make do with,충분하지 않은 것을 가지고 어떻게든 버티다,We'll have to make do with one computer today.,Part I 구어 표현
+418,put in a good word for,"누군가를 좋게 말해 주다, 추천하다",Could you put in a good word for me with your manager?,Part I 구어 표현
+419,go over someone's head,상대를 건너뛰고 그 윗사람에게 직접 말하다; 이해하기에 너무 어렵다,She went over her supervisor's head to the director. The joke went over my head라면 ‘농담을 이해 못했다’.,Part I 구어 표현
+420,get even with,~에게 복수하다,He hid my keys to get even with me for the prank.,Part I 구어 표현
+421,take it out on,엉뚱한 상대에게 화풀이하다,Don't take it out on me just because you had a bad day.,Part I 구어 표현
+422,shrug off,대수롭지 않게 넘기다; 떨쳐 내다,She shrugged off the criticism and kept working.,Part I 구어 표현
+423,brush off,사람·문제를 대수롭지 않게 여기고 무시하다,He brushed off my concerns without answering them. brush up on(복습하다)과 구별.,Part I 구어 표현
+424,gloss over,불편한 세부 사항을 얼버무리거나 슬쩍 넘기다,The report glossed over the project's failures.,Part I 구어 표현
+425,talk around,문제의 핵심을 피해 돌려 말하다,They spent an hour talking around the issue without addressing it.,Part I 구어 표현
+426,walk back,공개 발언·약속을 일부 철회하거나 수위를 낮추다,The spokesperson walked back the earlier promise.,Part I 구어 표현
+427,double down on,비판·위험에도 기존 방침을 더 강하게 밀고 나가다,They doubled down on the same strategy despite poor results.,Part I 구어 표현
+428,rein in,통제하여 억제하다,rein in spending. 말을 고삐로 제어하는 rein에서 온 표현.,Part I 구어 표현
+429,scale back,예정한 규모를 줄이다,scale back the construction plans after funding was cut.,Part I 구어 표현
+430,phase out,단계적으로 폐지·중단하다,phase out an old product over two years. 즉각 중단과 구별.,Part I 구어 표현
+431,zero in on,한 대상에 초점을 맞추다,The investigators zeroed in on a single transaction.,Part I 구어 표현
+432,flesh out,세부 내용을 보태서 구체화하다,flesh out a proposal by adding examples. flush out은 ‘숨어 있는 것을 몰아내다’.,Part I 구어 표현
+433,shake out,시간이 지나 일이 어느 방향으로 정리되다,Let's see how things shake out after the meeting.,Part I 구어 표현
+434,tie up loose ends,남은 자잘한 일을 마무리하다,I have a few loose ends to tie up before I leave.,Part I 구어 표현
+435,at a loose end,딱히 할 일이 없어 한가한 상태로,"If you're at a loose end this afternoon, come by. 영국 영어에서는 단수 end가 흔함.",Part I 구어 표현
+436,go the extra mile,기대 이상으로 한층 더 노력하다,The agent went the extra mile to find us a cheaper flight.,Part I 구어 표현
+437,drop the ball,"맡은 일을 실수로 놓치다, 망치다",We dropped the ball on renewing the license.,Part I 구어 표현
+438,throw someone for a loop,갑작스러운 일로 당황하게 하다,The last-minute change threw me for a loop.,Part I 구어 표현
+439,throw in the towel,포기하다,"After three failed attempts, they threw in the towel.",Part I 구어 표현
+440,on short notice,"촉박하게 통보받고, 준비할 시간이 거의 없이",Thanks for filling in on such short notice.,Part I 구어 표현
+441,exacerbate,이미 나쁜 상황을 더 악화시키다,"exacerbate tensions/a shortage. aggravate, worsen과 유의어.",Part II 문어체 어휘·연어
+442,reimburse,지출한 돈을 돌려주다,"reimburse employees for travel expenses. 명사형 reimbursement(환급, 상환).",Part II 문어체 어휘·연어
+443,invalidate,효력·타당성을 없애다,invalidate a contract는 ‘계약을 무효로 만들다’. invalidate a conclusion은 ‘결론의 타당성을 무너뜨리다’.,Part II 문어체 어휘·연어
+444,affluent,경제적으로 부유한,"an affluent neighborhood. affluence(풍요). wealthy, prosperous와 유의어.",Part II 문어체 어휘·연어
+445,listless,기운이나 의욕이 없는,"feel listless in the heat. lethargic, languid와 유의어.",Part II 문어체 어휘·연어
+446,reprieve,형 집행의 유예; 어려움으로부터의 일시적 해방,a temporary reprieve from cuts. 법률 문맥 밖에서도 곤경이 잠시 미뤄질 때 씀.,Part II 문어체 어휘·연어
+447,reprimand,잘못을 공식적으로 꾸짖다,reprimand an employee for misconduct. 명사로 a formal reprimand(공식 견책).,Part II 문어체 어휘·연어
+448,gravitate,자연스럽게 ~쪽으로 끌리다,gravitate toward like-minded people. 단순히 이동하기보다 자연스러운 선호를 암시.,Part II 문어체 어휘·연어
+449,collude,은밀히 결탁하다,collude with competitors to fix prices. 중립적인 cooperate와 달리 부정한 목적이 전제됨.,Part II 문어체 어휘·연어
+450,waive,권리·요구를 포기하다; 수수료를 면제하다,waive a fee/the right to appeal. wave(흔들다)와 철자가 비슷함.,Part II 문어체 어휘·연어
+451,repeal,법·규정을 공식적으로 폐지하다,"repeal a law. 계약을 무효로 하는 annul, 권리를 포기하는 waive와 목적어 구별.",Part II 문어체 어휘·연어
+452,tarnish,명성·이미지에 흠집을 내다; 금속 표면이 변색되다,tarnish a reputation. tarnish one's image도 자주 나옴. untarnished(흠 없는).,Part II 문어체 어휘·연어
+453,postulate,가설·원리로 제시하다,postulate that the two effects share a cause. 아직 입증된 결론이라는 뜻은 아님.,Part II 문어체 어휘·연어
+454,concoct,이야기·계획을 지어내다; 여러 재료를 섞어 만들다,concoct an excuse. fabricate와 유의어.,Part II 문어체 어휘·연어
+455,accost,낯선 이에게 갑자기 다가와 말을 걸다,be accosted by a stranger. 위압적이거나 달갑지 않은 접근에서 흔히 쓰임.,Part II 문어체 어휘·연어
+456,reconcile,상충하는 것들을 조화시키다; 화해시키다,reconcile the data with the theory. reconcile oneself to an outcome은 ‘결과를 받아들이다’.,Part II 문어체 어휘·연어
+457,preclude,"~을 불가능하게 하다, 미리 막다",The delay precludes an early launch. preclude someone from doing도 가능.,Part II 문어체 어휘·연어
+458,corroborate,독립적인 증거로 주장을 뒷받침하다,corroborate the witness's account. 조사 보고서나 증언과 자주 쓰임.,Part II 문어체 어휘·연어
+459,refute,"근거를 들어 틀렸음을 밝히다, 논박하다",refute an allegation with video evidence. 단순히 부인하는 deny보다 반박의 증거를 강조.,Part II 문어체 어휘·연어
+460,discount,가능성·견해를 대수롭지 않게 여기다,We cannot discount the possibility of error. 판매 가격을 깎는다는 뜻도 있음.,Part II 문어체 어휘·연어
+461,dispel,의심·두려움 등을 없애다,dispel a rumor/misconception. allay fears는 ‘두려움을 누그러뜨리다’에 가까움.,Part II 문어체 어휘·연어
+462,redress,"부당한 일을 시정하다, 피해를 보상하다",redress an imbalance는 ‘불균형을 바로잡다’. seek redress는 ‘구제·보상을 구하다’.,Part II 문어체 어휘·연어
+463,rectify,잘못·문제를 바로잡다,"rectify an error in the report. redress, remedy와 유의어.",Part II 문어체 어휘·연어
+464,rescind,결정·제안을 공식 철회하다,rescind an offer/decision. retract a statement는 이미 한 말을 거둬들이는 맥락.,Part II 문어체 어휘·연어
+465,revoke,허가·권리 등을 공식 취소하다,revoke a driver's license. repeal은 통상 법 자체를 폐지할 때 씀.,Part II 문어체 어휘·연어
+466,absolve,책임·죄에서 벗어나게 하다,absolve someone of responsibility. of 앞뒤의 사람과 책임을 한 세트로 기억.,Part II 문어체 어휘·연어
+467,exonerate,혐의나 책임이 없음을 밝혀 주다,New evidence exonerated the suspect. ‘혐의를 벗다’는 수동태 be exonerated로 자주 표현.,Part II 문어체 어휘·연어
+468,impugn,동기·정직성 등을 의심하여 공격하다,impugn a witness's motives. 물리적 공격을 뜻하지 않음.,Part II 문어체 어휘·연어
+469,unduly,"필요 이상으로, 부당할 만큼",unduly restrictive regulations는 ‘지나치게 제한적인 규정’.,Part II 문어체 어휘·연어
+470,inadvertently,"부주의로, 의도치 않게",inadvertently disclose private information. 고의성을 부정하는 부사.,Part II 문어체 어휘·연어
+471,ostensibly,"표면상으로는, 겉으로 내세운 바에 따르면",The trip was ostensibly for research. 실제 목적이 따로 있을 수 있음을 암시.,Part II 문어체 어휘·연어
+472,purportedly,~라고 알려져 있으나 사실인지 확실치 않게,The document purportedly dates from 1820. 화자가 사실 여부를 유보함.,Part II 문어체 어휘·연어
+473,tentatively,잠정적으로; 조심스럽게,The meeting is tentatively scheduled for Friday. 일정이 확정되지 않았다는 뜻.,Part II 문어체 어휘·연어
+474,categorically,"단호하게, 어떠한 예외도 두지 않고",categorically deny the allegation은 ‘혐의를 단호히 부인하다’.,Part II 문어체 어휘·연어
+475,respectively,"각각, 앞에서 열거된 순서대로","A and B cost ten and twenty dollars, respectively. A는 10달러, B는 20달러.",Part II 문어체 어휘·연어
+476,virtually,사실상 거의; 가상 방식으로,virtually impossible은 ‘사실상 불가능한’. meet virtually는 ‘온라인으로 만나다’.,Part II 문어체 어휘·연어
+477,ostentatious,"부·지위 등을 과시하는, 지나치게 화려한",ostentatious displays of wealth. ostensible(표면상의)과 형태는 비슷하지만 뜻이 다름.,Part II 문어체 어휘·연어
+478,exacting,높은 수준과 세밀함을 요구하는,exacting standards. 사람이 지나치게 깐깐하다는 뜻도 가능.,Part II 문어체 어휘·연어
+479,fastidious,"세부 사항에 까다로운, 깔끔함을 몹시 따지는",fastidious about cleanliness. meticulous는 세심함 자체에 초점.,Part II 문어체 어휘·연어
+480,perfunctory,성의 없이 의례적으로 하는,a perfunctory apology. cursory inspection은 짧고 피상적인 검사에 초점.,Part II 문어체 어휘·연어
+481,tacit,말로 드러내지 않았지만 암묵적으로 이해된,tacit approval/consent. taciturn은 ‘과묵한’.,Part II 문어체 어휘·연어
+482,tenable,"논리적으로 방어할 수 있는, 유지 가능한",a tenable position. 근거가 부족하면 untenable(유지하기 어려운).,Part II 문어체 어휘·연어
+483,viable,실행하여 지속하거나 성공할 수 있는,a viable alternative/business. feasible과 가깝지만 문맥에 따라 생존성·지속성까지 강조.,Part II 문어체 어휘·연어
+484,susceptible,"~의 영향을 받기 쉬운, 취약한","be susceptible to infection/persuasion. vulnerable, prone과 유의어.",Part II 문어체 어휘·연어
+485,compelling,주의를 강하게 끄는; 매우 설득력 있는,compelling evidence는 ‘매우 설득력 있는 증거’. a compelling story는 ‘몰입하게 하는 이야기’.,Part II 문어체 어휘·연어
+486,ambiguous,"둘 이상으로 해석될 수 있는, 모호한",ambiguous wording. ambivalent는 한 대상에 상반된 감정을 가진 상태.,Part II 문어체 어휘·연어
+487,salient,"가장 눈에 띄는, 핵심적인",the salient points of the report. 단순히 겉보기에 뚜렷하다는 뜻을 넘어 중요한 특징을 가리킴.,Part II 문어체 어휘·연어
+488,counterintuitive,직관이나 예상과 어긋나는,a counterintuitive result. ‘틀렸다’는 뜻은 아님.,Part II 문어체 어휘·연어
+489,discrepancy,두 수치·설명 사이의 불일치,a discrepancy between the accounts. anomaly는 예상되는 패턴에서 벗어난 예외나 이상 현상.,Part II 문어체 어휘·연어
+490,concession,양보; 논쟁에서 상대 주장의 일부를 인정함,make a concession during talks. 매점 영업권이나 요금 할인이라는 뜻도 있음.,Part II 문어체 어휘·연어
+491,contingency,발생할 수 있는 뜻밖의 사태,a contingency plan은 비상 사태에 대비한 대안. be contingent on은 ‘~에 달려 있다’.,Part II 문어체 어휘·연어
+492,ramification,"파생되는 복잡한 결과, 파장",the legal ramifications of the decision. 복수형으로 많이 쓰임.,Part II 문어체 어휘·연어
+493,culprit,범인; 문제를 일으킨 원인,The faulty cable was the culprit. 사람이 아닌 원인도 가리킬 수 있음.,Part II 문어체 어휘·연어
+494,liability,법적 책임; 부채; 불리하게 작용하는 요소,assume liability for damages는 ‘손해에 대한 법적 책임을 지다’. a liability는 ‘부담이 되는 존재’도 가능.,Part II 문어체 어휘·연어
+495,precedent,이후 판단의 선례,set a precedent는 ‘선례를 만들다’. precedence는 ‘우선권·우선순위’.,Part II 문어체 어휘·연어
+496,moratorium,행위·지급 등에 대한 일시적 중지 조치,impose a moratorium on evictions. 영구 폐지와 달리 일시 정지.,Part II 문어체 어휘·연어
+497,reprisal,보복 행위,fear reprisals for speaking out(발언에 대한 보복을 두려워하다). reprieve(유예)와 구별.,Part II 문어체 어휘·연어
+498,grievance,공식적으로 제기할 수 있는 불만·고충,file a grievance는 ‘고충을 공식 제기하다’. air grievances는 ‘불만을 공개적으로 말하다’.,Part II 문어체 어휘·연어
+499,shortfall,필요량·목표에 못 미치는 부족분,a budget shortfall은 ‘예산 부족분’. 단순한 부족 상태인 scarcity와 구별.,Part II 문어체 어휘·연어
+500,oversight,감독·관리; 깜빡해서 생긴 실수,regulatory oversight는 ‘규제 당국의 감독’. due to an oversight는 ‘부주의한 실수 때문에’.,Part II 문어체 어휘·연어
+501,placate,"(화난 사람을) 달래다, 진정시키다","placate angry customers. appease, mollify, pacify와 유의어.",동사
+502,vilify,"비방하다, 헐뜯다","be vilified in the press. malign, disparage와 유의어.",동사
+503,excoriate,맹렬히 비난하다,"excoriate the government's policy. lambaste, castigate와 유의어.",동사
+504,dwindle,점점 줄어들다,dwindling resources/support. 목적어 없이 쓰는 자동사.,동사
+505,renounce,(권리·신념 등을) 공식적으로 버리다,"renounce one's citizenship/violence. abjure, relinquish와 유의어.",동사
+506,mitigate,"(피해·고통을) 완화하다, 경감하다","mitigate the risks/impact. alleviate, palliate와 유의어. mitigating circumstances는 ‘정상 참작 사유’.",동사
+507,denigrate,"폄하하다, 깎아내리다","denigrate someone's achievements. belittle, disparage와 유의어.",동사
+508,berate,호되게 꾸짖다,"berate an employee in front of others. rebuke, reprimand와 유의어.",동사
+509,preempt,"선수를 치다, 미리 막다",preempt criticism by apologizing first. forestall과 유의어. preemptive strike는 ‘선제공격’.,동사
+510,hinder,"방해하다, 저해하다","hinder progress/growth. hamper, impede와 유의어.",동사
+511,disclose,"(정보를) 공개하다, 밝히다",disclose personal information. divulge와 유의어. nondisclosure agreement는 ‘비밀 유지 계약’.,동사
+512,supersede,(기존 것을) 대체하다,be superseded by a newer model. supplant와 유의어.,동사
+513,ostracize,"따돌리다, 배척하다",be ostracized by one's colleagues. 고대 그리스의 도편추방(ostracism)에서 나온 말.,동사
+514,reiterate,"되풀이하다, 거듭 말하다",reiterate one's position/support. 이미 한 말을 강조하려고 다시 말한다는 뜻.,동사
+515,aggravate,악화시키다; 짜증 나게 하다,"aggravate an injury/a problem. exacerbate, worsen과 유의어. 구어에서 aggravating은 ‘짜증 나는’.",동사
+516,capitulate,"항복하다, (요구에) 굴복하다",capitulate to the union's demands. acquiesce와 비슷하지만 버티다가 끝내 굴복한다는 뉘앙스.,동사
+517,disseminate,"(정보·지식을) 퍼뜨리다, 보급하다",disseminate information/research findings. promulgate와 비슷하게 ‘널리 알리다’.,동사
+518,exasperate,몹시 화나게 하다,be exasperated by the constant delays. 참다 참다 짜증이 폭발하는 느낌. aggravate의 ‘짜증 나게 하다’와 비슷.,동사
+519,embezzle,(공금을) 횡령하다,embezzle company funds. embezzlement는 ‘횡령’.,동사
+520,vacillate,"(마음이) 흔들리다, 갈팡질팡하다",vacillate between two options. waver와 유의어.,동사
+521,rapacious,"탐욕스러운, 약탈적인",rapacious landlords/lenders. avaricious와 유의어.,형용사
+522,loquacious,말이 많은,a loquacious host. garrulous와 유의어.,형용사
+523,sycophantic,아첨하는,sycophantic praise/aides. obsequious와 유의어.,형용사
+524,pernicious,"(서서히) 해로운, 치명적인","the pernicious effects of misinformation. insidious, deleterious와 유의어.",형용사
+525,ubiquitous,"어디에나 있는, 아주 흔한","Smartphones have become ubiquitous. prevalent와 비슷하지만 ‘어디서나 보인다’는 데 초점. ubiquity는 ‘편재, 어디에나 있음’.",형용사
+526,conducive,"(~에) 도움이 되는, (~하기) 좋은",be conducive to learning/growth. 거의 항상 to와 함께 씀.,형용사
+527,indiscriminate,"무차별적인, 가리지 않는",indiscriminate use of antibiotics/violence.,형용사
+528,capricious,변덕스러운,capricious weather/a capricious boss. erratic과 비슷.,형용사
+529,resilient,"회복력 있는, 잘 버티는",a resilient economy/child. resilience는 ‘회복력’.,형용사
+530,lenient,"관대한, (처벌이) 너그러운",a lenient sentence/teacher. magnanimous와 비슷하지만 주로 규칙·처벌이 느슨하다는 뜻. clemency(관용)와 함께 외우기.,형용사
+531,impetuous,"성급한, 충동적인",an impetuous decision. 앞뒤 재지 않고 행동한다는 뜻. impetus(추진력)와 혼동 주의.,형용사
+532,taciturn,"과묵한, 말이 없는","a taciturn man. laconic, reticent와 유의어. tacit(암묵적인)와 혼동 주의.",형용사
+533,vociferous,"소리 높여 주장하는, 시끄럽게 떠드는",vociferous critics/opposition.,형용사
+534,pretentious,"허세 부리는, 가식적인",a pretentious restaurant/writer. ostentatious와 비슷.,형용사
+535,antiquated,"낡은, 구식의","antiquated laws/equipment. obsolete, outdated와 유의어. anachronistic과도 비슷.",형용사
+536,meager,"빈약한, 얼마 안 되는",a meager salary/diet. paltry와 유의어. 영국식 철자는 meagre.,형용사
+537,lavish,호화로운; 아낌없는,a lavish party / lavish praise. opulent와 유의어. lavish A on B는 ‘B에게 A를 아낌없이 주다’.,형용사
+538,draconian,(법·조치가) 매우 가혹한,draconian measures/laws. stringent와 비슷하지만 지나치게 가혹하다는 비판이 담김.,형용사
+539,prevalent,"널리 퍼진, 일반적인",be prevalent among teenagers. rampant와 비슷하지만 부정적인 뉘앙스가 약함.,형용사
+540,amiable,"상냥한, 붙임성 있는","an amiable host/conversation. affable, genial과 유의어.",형용사
+541,pandemonium,"대혼란, 아수라장","Pandemonium broke out when the results came in. bedlam, chaos와 유의어.",명사
+542,propriety,"예의 바름, 적절성",a sense of propriety. decorum과 유의어.,명사
+543,composure,"침착함, 평정",keep/lose one's composure. aplomb과 유의어.,명사
+544,enmity,"적대감, 원한","long-standing enmity between the two families. animosity, hostility와 유의어.",명사
+545,plight,"곤경, 처지",the plight of refugees. predicament와 유의어.,명사
+546,pinnacle,"정점, 절정",the pinnacle of one's career. zenith와 유의어.,명사
+547,scarcity,"부족, 결핍","water/food scarcity. dearth, paucity와 유의어.",명사
+548,quirk,"별난 점, 특이한 버릇",a quirk of fate는 ‘운명의 장난’. foible과 비슷하지만 결점보다는 특이한 점에 가까움.,명사
+549,deadlock,교착 상태,"break the deadlock. impasse, stalemate와 유의어.",명사
+550,complicity,"공모, 연루",complicity in the crime. collude(공모하다)와 함께 외우기.,명사
+551,impunity,"처벌받지 않음, 면책",with impunity는 ‘아무 벌도 받지 않고’.,명사
+552,dissent,"반대 의견, 이의",voice dissent. dissenting opinion은 판결의 ‘소수 의견’.,명사
+553,euphemism,"완곡어법, 완곡한 표현",‘Pass away’ is a euphemism for ‘die’. 불편한 말을 부드럽게 돌려 말하는 표현.,명사
+554,hindsight,"뒤늦은 깨달음, 지나고 나서 알게 됨","In hindsight, we should have waited. with the benefit of hindsight도 자주 씀.",명사
+555,adversity,역경,"in the face of adversity. overcome adversity가 대표 연어. plight, predicament와 비슷하지만 더 넓게 ‘어려운 환경’을 뜻함.",명사
+556,prerogative,"특권, 고유 권한",It's the manager's prerogative to decide.,명사
+557,aversion,"혐오, 몹시 싫어함",have an aversion to risk/crowds. abhor(혐오하다)와 뜻이 가까움.,명사
+558,stigma,"오명, 낙인",the stigma attached to mental illness. stigmatize는 ‘낙인찍다’.,명사
+559,prowess,"뛰어난 솜씨, 기량",athletic/technical prowess.,명사
+560,trepidation,"불안, 두려움",with some trepidation. 앞으로 닥칠 일에 대한 걱정을 나타냄.,명사
+561,hit the nail on the head,정곡을 찌르다,You hit the nail on the head. 핵심을 정확히 짚었다는 칭찬.,Part I 구어 표현
+562,cost an arm and a leg,엄청나게 비싸다,That car must have cost an arm and a leg.,Part I 구어 표현
+563,get cold feet,(막판에) 겁이 나서 망설이다,He got cold feet right before signing the contract.,Part I 구어 표현
+564,bite off more than one can chew,감당하지 못할 일을 벌이다,Don't bite off more than you can chew. be in over one's head와 비슷한 상황.,Part I 구어 표현
+565,by the skin of one's teeth,"간신히, 아슬아슬하게",I passed the exam by the skin of my teeth.,Part I 구어 표현
+566,on the same page,"같은 생각인, 이해가 일치하는",Let's make sure we're on the same page. see eye to eye와 비슷.,Part I 구어 표현
+567,hold one's horses,서두르지 말고 기다리다,Hold your horses! 상대를 진정시키며 잠깐 기다리라는 말. sit tight와 비슷.,Part I 구어 표현
+568,a long shot,가능성이 희박한 일,"It's a long shot, but it's worth a try.",Part I 구어 표현
+569,call the shots,"결정권을 쥐다, 지휘하다",Who calls the shots around here?,Part I 구어 표현
+570,give it a shot,한번 해 보다,Why don't you give it a shot? give it a try와 같은 뜻.,Part I 구어 표현
+571,learn the ropes,요령을 익히다,It takes a few weeks to learn the ropes. get the hang of와 비슷.,Part I 구어 표현
+572,on the tip of one's tongue,(말이) 혀끝에서 맴도는,Her name is on the tip of my tongue. 알긴 아는데 생각이 안 날 때.,Part I 구어 표현
+573,hit the roof,몹시 화를 내다,My dad hit the roof when he saw the bill. fly off the handle과 유의어.,Part I 구어 표현
+574,bend over backwards,(돕거나 맞추려고) 무척 애쓰다,They bent over backwards to help us. go the extra mile과 비슷.,Part I 구어 표현
+575,through the grapevine,"소문으로, 풍문으로",I heard it through the grapevine. get wind of와 비슷.,Part I 구어 표현
+576,break the ice,(어색한 분위기를) 깨다,He told a joke to break the ice. icebreaker는 ‘분위기를 푸는 활동’.,Part I 구어 표현
+577,let the cat out of the bag,(무심코) 비밀을 누설하다,Who let the cat out of the bag about the party?,Part I 구어 표현
+578,on the rocks,(관계·사업이) 파탄 직전인,Their marriage is on the rocks. 술 주문에서는 ‘얼음만 넣은’.,Part I 구어 표현
+579,the last straw,참을 수 있는 한계를 넘게 만든 마지막 일,That was the last straw. 낙타 등을 부러뜨린 마지막 지푸라기에서 나온 말.,Part I 구어 표현
+580,up to one's ears in,(일 등에) 파묻혀 있는,I'm up to my ears in work this week.,Part I 구어 표현
+581,dress,(상처를) 소독하고 붕대를 감다; (샐러드에) 드레싱을 치다,dress a wound에서 dress는 ‘옷을 입히다’가 아니라 ‘상처를 처치하다’. dress a salad는 ‘드레싱을 치다’.,다의어
+582,run,운영하다; (선거에) 출마하다,run a business는 ‘사업을 운영하다’. run for office는 ‘공직에 출마하다’. run a fever는 ‘열이 나다’.,다의어
+583,fire,해고하다; (질문을) 퍼붓다,be fired는 ‘해고되다’. fire questions at someone은 ‘질문을 퍼붓다’.,다의어
+584,post,"직위, 자리; 게시하다",a diplomatic post는 ‘외교관 직위’. post a notice는 ‘공지를 게시하다’.,다의어
+585,sanction,승인하다; 제재 (조치),officially sanctioned는 ‘공식 승인된’. economic sanctions는 ‘경제 제재’. 정반대 뜻이 함께 있어 문맥으로 판단해야 함.,다의어
+586,novel,"새로운, 참신한",a novel approach에서 novel은 ‘소설’이 아니라 ‘참신한’이라는 형용사.,다의어
+587,grave,"심각한, 중대한",a grave mistake/concern에서 grave는 ‘무덤’이 아니라 ‘심각한’.,다의어
+588,spare,(시간·돈을) 내주다; (불쾌한 일을) 면하게 해 주다,Can you spare a minute? spare no expense는 ‘비용을 아끼지 않다’. Spare me the details는 ‘자세한 얘기는 빼 줘’.,다의어
+589,object,반대하다,object to the plan에서 object는 동사로 ‘반대하다’(강세가 뒤). 명사로는 ‘물체; 목적’.,다의어
+590,conduct,"수행하다, 실시하다; 행동, 품행","conduct a survey/an experiment는 ‘조사·실험을 하다’. 명사 conduct는 ‘행동, 품행’.",다의어
+591,circumspect,"신중한, 용의주도한","be circumspect about what you say. prudent, judicious와 유의어.",Part II 문어체 어휘·연어
+592,commensurate,"(~에) 상응하는, 걸맞은",salary commensurate with experience는 채용 공고에 자주 나오는 표현. with와 함께 씀.,Part II 문어체 어휘·연어
+593,mandatory,"의무적인, 법으로 정해진",mandatory retirement age/attendance. compulsory와 같은 뜻.,Part II 문어체 어휘·연어
+594,stipulate,"(계약·법에서) 명시하다, 규정하다","The contract stipulates that payment be made within 30 days. stipulation은 ‘조항, 조건’.",Part II 문어체 어휘·연어
+595,allegedly,"주장에 따르면, 혐의에 따르면",He allegedly accepted bribes. purportedly와 유의어. ostensibly와도 비슷. 사실로 확인되지 않았다는 뉘앙스.,Part II 문어체 어휘·연어
+596,subsequently,"그 후에, 이어서",He was arrested and subsequently released. subsequent to는 ‘~ 이후에’.,Part II 문어체 어휘·연어
+597,impending,(보통 나쁜 일이) 곧 닥칠,impending doom/crisis. imminent와 유의어.,Part II 문어체 어휘·연어
+598,prerequisite,"전제 조건, 필수 조건",a prerequisite for the advanced course.,Part II 문어체 어휘·연어
+599,curb,"억제하다, 제한하다","curb inflation/spending. curtail, rein in과 유의어.",Part II 문어체 어휘·연어
+600,deteriorate,(상태가) 악화되다,deteriorating health/relations. exacerbate와 뜻은 비슷하지만 ‘악화되다’라는 자동사.,Part II 문어체 어휘·연어
