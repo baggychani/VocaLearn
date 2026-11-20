@@ -840,7 +840,20 @@ function render(focusId) {
   if (usingPointer && (focusId || previousId)) study.focus({ preventScroll: true });
   else if (focusTarget && !focusTarget.disabled) focusTarget.focus({ preventScroll: !focusId });
   else if (previousId) study.focus({ preventScroll: true });
+  if (usingPointer) keepQuizInView();
   syncTimer();
+}
+
+/** 터치로 풀 때: 답을 고르면 '다음 문제' 버튼까지 보이게, 다음 문제로 넘어가면 문제 위쪽이 보이게 스크롤한다.
+ *  키보드로 풀 때는 포커스 이동이 스크롤을 맡는다. */
+function keepQuizInView() {
+  if (study.dataset.view !== "question") return;
+  const next = $("#advance-quiz");
+  if (next) {
+    if (next.getBoundingClientRect().bottom > window.innerHeight - 8) next.scrollIntoView({ block: "end", behavior: "smooth" });
+  } else if (study.getBoundingClientRect().top < 0) {
+    study.scrollIntoView({ block: "start", behavior: "smooth" });
+  }
 }
 
 /* ---------- 입력 ---------- */
@@ -976,16 +989,19 @@ $("#toast-undo").addEventListener("click", () => {
   undo?.();
 });
 
-// 휴대폰에서는 카드를 옆으로 밀어 넘긴다.
+// 휴대폰·태블릿에서는 카드를 옆으로 밀어 넘긴다. 위아래로 스크롤하다 옆으로 조금 흔들린 것은 넘기지 않는다.
 study.addEventListener("touchstart", (event) => {
-  touchX = mode === "cards" && event.target.closest("#flip-card") ? event.touches[0].clientX : null;
+  const { clientX, clientY } = event.touches[0];
+  touchX = mode === "cards" && !cards.list && event.touches.length === 1 && event.target.closest("#flip-card") ? { x: clientX, y: clientY } : null;
 }, { passive: true });
 study.addEventListener("touchend", (event) => {
   if (touchX === null) return;
-  const distance = event.changedTouches[0].clientX - touchX;
+  const dx = event.changedTouches[0].clientX - touchX.x;
+  const dy = event.changedTouches[0].clientY - touchX.y;
   touchX = null;
-  if (Math.abs(distance) > 60) moveCard(distance < 0 ? 1 : -1);
+  if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 1.5) moveCard(dx < 0 ? 1 : -1);
 });
+study.addEventListener("touchcancel", () => { touchX = null; }, { passive: true });
 
 window.addEventListener("pointerdown", () => { usingPointer = true; }, true);
 
